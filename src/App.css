@@ -11,7 +11,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background-image: url('src/assets/dark.png'); /* Corrected path format */
+  background-image: url('dark.png'); /* Corrected path format */
   background-size: cover; /* To cover the entire viewport */
   background-attachment: fixed; /* Keep the background fixed */
   position: relative;
@@ -49,7 +49,7 @@ small {
 
 .container {
   margin: 0 auto;
-  max-width:61vw;
+  max-width:68vw;
   padding: 40px;
 }
 
